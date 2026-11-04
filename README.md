@@ -1,5 +1,17 @@
 # ChessCheat
 
+> **IMPORTANT — STOCKFISH REQUIRED**
+>
+> ChessCheat requires the **latest version of Stockfish** to function properly.
+>
+> **Official download:** https://stockfishchess.org/download/
+>
+> Download the latest version of Stockfish for your operating system before running ChessCheat.
+>
+> **Important:** Make sure the Stockfish executable is correctly installed and its file path is configured in the source code (`kEnginePath`). Without Stockfish, ChessCheat will not be able to analyze chess positions or provide move suggestions.
+>
+> Always download Stockfish from its official website.
+
 **An open-source chess cheat, made by me.**
 
 ChessCheat is an open-source project developed to experiment with chess-related automation, board recognition and other features designed to interact with chess games.
